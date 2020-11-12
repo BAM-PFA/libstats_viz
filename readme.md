@@ -21,4 +21,4 @@ To run this, start Jupyter (`jupyter notebook`), navigate to this directory, and
 
 (`pip` might install pandas, matplotlib, and numpy when you install jupyer....)
 
- 
+ ![sample plot of interaction types](2020_stats_type.png)
