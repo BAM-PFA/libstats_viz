@@ -27,4 +27,6 @@ To run this, start Jupyter (`jupyter notebook`), navigate to this directory, and
 
 ![sample line plot of interactions by source types](by_source_linechart.png)
 
-  ![sample line plot of interactions by types](by_type_linechart.png)
+![sample line plot of interactions by types](by_type_linechart.png)
+
+![sample word cloud of research needs](research-needs_wordcloud.png)
