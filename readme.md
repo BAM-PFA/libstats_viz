@@ -6,6 +6,8 @@ The resulting CSV is saved and parsed to produce a visualization of one or anoth
 
 Also, the CSV included here is slightly sanitized to remove personal information :)
 
+Also also, the data is not complete/not everyone enters stats consistently ;)
+
 ## Usage
 
 To run this, start Jupyter (`jupyter notebook`), navigate to this directory, and open up the `Libstats_visualization.ipynb`. Then `Run all cells` and see what pops up!
